@@ -1,0 +1,9 @@
+Objects:
+    Flatmate:
+        days_in_period
+
+    Bill:
+        calculate()
+
+    FileSharer:
+        share_link()
